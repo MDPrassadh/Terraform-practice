@@ -1,0 +1,2 @@
+ctrl+shift-P opened terminal and type clear terminal "only in vs-code"
+
